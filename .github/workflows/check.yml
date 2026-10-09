@@ -1,0 +1,14 @@
+name: lab2-kit-check
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python tools/seed_replay_cache.py
+      - run: python -m pytest -q tests
+      - run: python -m pytest -q --nbmake notebooks

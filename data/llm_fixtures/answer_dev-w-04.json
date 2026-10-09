@@ -1,0 +1,14 @@
+{
+ "name": "answer_dev-w-04",
+ "response_model": "Answer",
+ "model_role": "large",
+ "builder": "answer_messages",
+ "args": {
+  "task_id": "dev-w-04"
+ },
+ "response": {
+  "claims": [],
+  "abstained": true,
+  "abstain_reason": "Not disclosed: the data room does not include an FY2026 budget."
+ }
+}

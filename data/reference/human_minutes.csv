@@ -1,0 +1,6 @@
+task_category,minutes_low,minutes_typical,minutes_high,source
+10-K workup,240,390,660,"FinTrust time study (pre-read case, Exhibit 6)"
+comps table,120,205,360,"pre-read case, Exhibit 6"
+first CIM screen,300,420,600,"pre-read case, Exhibit 6"
+diligence request list,60,120,180,"pre-read case, Exhibit 6"
+cited Q&A answer,5,12,30,classroom assumption

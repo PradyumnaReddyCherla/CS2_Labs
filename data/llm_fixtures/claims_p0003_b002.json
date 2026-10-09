@@ -1,0 +1,22 @@
+{
+ "name": "claims_p0003_b002",
+ "response_model": "MgmtClaims",
+ "model_role": "large",
+ "builder": "claims_messages",
+ "args": {
+  "block": "DR-deal_a-001:p0003_b002"
+ },
+ "response": {
+  "claims": [
+   {
+    "metric": "nrr",
+    "value": 1.18,
+    "unit": "pct",
+    "scale": 1,
+    "period": "FY2025",
+    "qualifier": "reported",
+    "quote": "Net revenue retention was 118% in FY2025"
+   }
+  ]
+ }
+}

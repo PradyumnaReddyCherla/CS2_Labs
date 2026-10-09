@@ -1,0 +1,34 @@
+{
+ "name": "answer_dev-w-01",
+ "response_model": "Answer",
+ "model_role": "large",
+ "builder": "answer_messages",
+ "args": {
+  "task_id": "dev-w-01"
+ },
+ "response": {
+  "claims": [
+   {
+    "text": "Wren's FY2025 revenue was $41.2 million, per seller financials.",
+    "numbers": [
+     {
+      "value": 41200000.0,
+      "unit": "USD",
+      "fact_id": "F-b9733fc812"
+     }
+    ],
+    "citations": [
+     {
+      "doc_id": "DR-deal_a-004",
+      "block_id": "P&L!D2",
+      "tier": 3,
+      "page": null
+     }
+    ],
+    "tier_label": "seller"
+   }
+  ],
+  "abstained": false,
+  "abstain_reason": null
+ }
+}

@@ -1,0 +1,21 @@
+item_id,claim,cited_text,human_a,human_b
+j01,FY2025 revenue was $41.2 million.,Revenue | 26.4 | 33.07 | 41.2,1,1
+j02,Revenue grew 32% in FY2025.,Revenue | 26.4 | 33.07 | 41.2,0,0
+j03,NRR was 109% in FY2025.,Net revenue retention | 1.09,1,1
+j04,NRR was 118% in FY2025.,Net revenue retention | 1.09,0,0
+j05,The largest customer is 14.5% of revenue.,Northline Logistics LLC | 0.145,1,1
+j06,No customer exceeds 8% of revenue.,Northline Logistics LLC | 0.145,0,0
+j07,The fiscal year ends June 30.,Fiscal year ends June 30.,1,1
+j08,Adjusted EBITDA was $9.9 million.,Adjusted EBITDA | 6.0 | 7.9 | 9.9,1,1
+j09,EBITDA was $9.9 million.,EBITDA | 5.1 | 6.4 | 7.5,0,0
+j10,Two contracts need consent on a change of control.,Two enterprise contracts require consent on a change of control.,1,1
+j11,The CFO joined in 2021.,"Chief Financial Officer Marcus Oyelaran, who joined in 2021",1,1
+j12,"Wren serves 1,240 brokers.","Wren serves 1,240 brokerage customers.",1,1
+j13,"IOIs are due November 20, 2026.","Indications of interest are due on November 20, 2026.",1,1
+j14,Wren is headquartered in Chicago.,"headquartered in Columbus, Ohio",0,0
+j15,Gross logo churn was 7%.,Gross logo churn | 0.07,1,1
+j16,Revenue grew about 25% in FY2025.,Revenue | 26.4 | 33.07 | 41.2,1,0
+j17,ARR is $48.0 million.,ARR (USD millions) | 48.0,1,1
+j18,FY2025 revenue was $48.0 million.,Revenue | 26.4 | 33.07 | 41.2,0,0
+j19,Annual fees in the Northline contract are $5.97 million.,"Annual fees: $5,970,000.",1,1
+j20,The contract term is 24 months.,Term: 36 months,0,1

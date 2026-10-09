@@ -1,0 +1,11 @@
+[
+ {
+  "chart": "Revenue by fiscal year (CIM, page 4)",
+  "metric": "revenue",
+  "period": "FY2025",
+  "value": 42000000.0,
+  "method": "chart_read",
+  "tier": 4,
+  "doc_id": "DR-deal_a-001"
+ }
+]

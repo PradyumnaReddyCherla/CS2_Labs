@@ -1,0 +1,25 @@
+# Lab 2 starter kit (Python 3.11). After installing, pin what you got:  pip freeze > requirements.lock
+pyyaml>=6
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.8
+openpyxl>=3.1
+beautifulsoup4>=4.12
+lxml>=5
+requests>=2.31
+pydantic>=2.7,<3
+duckdb>=1.0
+chromadb>=1.0
+rank-bm25>=0.2.2
+langchain-text-splitters>=0.3
+fastapi>=0.110
+httpx>=0.27
+uvicorn>=0.29
+pytest>=8
+jupyterlab>=4
+nbmake>=1.5
+ipykernel>=6
+# Record and live modes only (replay needs none of these):
+#   instructor>=1.7  openai>=1.40  (or anthropic)  sentence-transformers>=3.0
+# Your CS2 repository: install the list on the tutorial's "Environment setup" slide.

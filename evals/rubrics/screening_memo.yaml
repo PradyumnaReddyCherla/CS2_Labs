@@ -1,0 +1,43 @@
+scale: 1-5, anchored
+items:
+- id: Company Overview
+  anchor_1: missing or wrong
+  anchor_3: present, partly supported
+  anchor_5: complete, every number cited
+- id: Business Model and Go-to-Market
+  anchor_1: missing or wrong
+  anchor_3: present, partly supported
+  anchor_5: complete, every number cited
+- id: Financial Profile
+  anchor_1: missing or wrong
+  anchor_3: present, partly supported
+  anchor_5: complete, every number cited
+- id: Customers and Concentration
+  anchor_1: missing or wrong
+  anchor_3: present, partly supported
+  anchor_5: complete, every number cited
+- id: Management and Organization
+  anchor_1: missing or wrong
+  anchor_3: present, partly supported
+  anchor_5: complete, every number cited
+- id: Process and Valuation Context
+  anchor_1: missing or wrong
+  anchor_3: present, partly supported
+  anchor_5: complete, every number cited
+- id: Key Risks and Diligence Questions
+  anchor_1: missing or wrong
+  anchor_3: present, partly supported
+  anchor_5: complete, every number cited
+- id: Disclosure Gaps
+  anchor_1: missing or wrong
+  anchor_3: present, partly supported
+  anchor_5: complete, every number cited
+- id: trap_coverage
+  anchor_1: no traps raised
+  anchor_5: every checkable trap raised
+- id: provenance
+  anchor_1: uncited numbers
+  anchor_5: every number cited
+- id: not_disclosed_correct
+  anchor_1: invents missing facts
+  anchor_5: uses "Not disclosed." exactly where evidence is missing

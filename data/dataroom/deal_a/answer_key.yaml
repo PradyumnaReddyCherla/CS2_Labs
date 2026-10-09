@@ -1,0 +1,49 @@
+deal: deal_a
+fiscal_year_end: 06-30
+traps:
+- id: W1
+  category: T-GROWTH
+  metric: revenue_growth
+  period: FY2025
+  claim_value: 0.32
+  true_value: 0.2458
+  expected_status: discrepancy
+  claim_block: p0002_b001
+- id: W2
+  category: T-RUNRATE
+  metric: revenue
+  period: FY2025
+  claim_value: 48000000.0
+  true_value: 41200000.0
+  qualifier: run-rate
+  expected_status: definition_mismatch
+  claim_block: p0002_b002
+- id: W3
+  category: T-PERIOD
+  metric: revenue
+  period: CY2025
+  claim_value: 43500000.0
+  expected_status: period_mismatch
+  claim_block: p0002_b003
+- id: W4
+  category: T-CONC
+  metric: top1_customer_share
+  period: FY2025
+  claim_value: 0.08
+  true_value: 0.145
+  expected_status: discrepancy
+  claim_block: p0003_b001
+- id: W5
+  category: T-NRR
+  metric: nrr
+  period: FY2025
+  claim_value: 1.18
+  true_value: 1.09
+  expected_status: discrepancy
+  claim_block: p0003_b002
+true_values:
+  revenue_FY2025: 41200000.0
+  revenue_FY2024: 33070000.0
+  nrr_FY2025: 1.09
+  top1_customer_share_FY2025: 0.145
+  adjusted_ebitda_FY2025: 9900000.0

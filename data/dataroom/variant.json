@@ -1,0 +1,12 @@
+{
+ "variant_id": "sample-wren",
+ "archetype": "vertical_saas",
+ "deals": {
+  "deal_a": "Project Wren",
+  "deal_b": "Project Heron"
+ },
+ "host": "sim.example.edu",
+ "sitemap_url": "https://sim.example.edu/sitemap.xml",
+ "price_snapshot_date": "2026-09-30",
+ "note": "classroom sample; your real variant.json arrives with CS2"
+}

@@ -1,0 +1,22 @@
+{
+ "name": "claims_p0003_b001",
+ "response_model": "MgmtClaims",
+ "model_role": "large",
+ "builder": "claims_messages",
+ "args": {
+  "block": "DR-deal_a-001:p0003_b001"
+ },
+ "response": {
+  "claims": [
+   {
+    "metric": "top1_customer_share",
+    "value": 0.08,
+    "unit": "pct",
+    "scale": 1,
+    "period": "FY2025",
+    "qualifier": "reported",
+    "quote": "no single customer represents more than 8% of revenue"
+   }
+  ]
+ }
+}

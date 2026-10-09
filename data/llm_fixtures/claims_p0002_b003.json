@@ -1,0 +1,22 @@
+{
+ "name": "claims_p0002_b003",
+ "response_model": "MgmtClaims",
+ "model_role": "large",
+ "builder": "claims_messages",
+ "args": {
+  "block": "DR-deal_a-001:p0002_b003"
+ },
+ "response": {
+  "claims": [
+   {
+    "metric": "revenue",
+    "value": 43.5,
+    "unit": "USD",
+    "scale": 1000000,
+    "period": "CY2025",
+    "qualifier": "reported",
+    "quote": "Calendar-year 2025 revenue is expected to reach $43.5 million"
+   }
+  ]
+ }
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://sim.example.edu/wren/about.html</loc></url>
+  <url><loc>https://sim.example.edu/wren/press-2026-06.html</loc></url>
+  <url><loc>https://sim.example.edu/wren/careers.html</loc></url>
+  <url><loc>https://not-allowed.example.com/tracker.html</loc></url>
+</urlset>

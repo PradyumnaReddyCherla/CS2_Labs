@@ -1,0 +1,70 @@
+{
+ "cik": 1,
+ "entityName": "SAMPLE ANALYTICS INC (structure sample; values fictional)",
+ "facts": {
+  "dei": {
+   "EntityCommonStockSharesOutstanding": {
+    "label": "Entity Common Stock, Shares Outstanding",
+    "units": {
+     "shares": [
+      {
+       "end": "2026-07-31",
+       "val": 61000000,
+       "accn": "0000000001-26-000037",
+       "fy": 2026,
+       "fp": "Q2",
+       "form": "10-Q",
+       "filed": "2026-08-05"
+      }
+     ]
+    }
+   }
+  },
+  "us-gaap": {
+   "Revenues": {
+    "label": "Revenues",
+    "units": {
+     "USD": [
+      {
+       "start": "2025-01-01",
+       "end": "2025-12-31",
+       "val": 820000000,
+       "accn": "0000000001-25-000101",
+       "fy": 2025,
+       "fp": "FY",
+       "form": "10-K",
+       "filed": "2026-02-20"
+      },
+      {
+       "start": "2026-01-01",
+       "end": "2026-06-30",
+       "val": 430000000,
+       "accn": "0000000001-26-000037",
+       "fy": 2026,
+       "fp": "Q2",
+       "form": "10-Q",
+       "filed": "2026-08-05"
+      }
+     ]
+    }
+   },
+   "NetIncomeLoss": {
+    "label": "Net Income (Loss)",
+    "units": {
+     "USD": [
+      {
+       "start": "2025-01-01",
+       "end": "2025-12-31",
+       "val": 71000000,
+       "accn": "0000000001-25-000101",
+       "fy": 2025,
+       "fp": "FY",
+       "form": "10-K",
+       "filed": "2026-02-20"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

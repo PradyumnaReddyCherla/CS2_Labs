@@ -1,0 +1,31 @@
+{
+ "name": "claims_p0002_b001",
+ "response_model": "MgmtClaims",
+ "model_role": "large",
+ "builder": "claims_messages",
+ "args": {
+  "block": "DR-deal_a-001:p0002_b001"
+ },
+ "response": {
+  "claims": [
+   {
+    "metric": "revenue_growth",
+    "value": 0.32,
+    "unit": "pct",
+    "scale": 1,
+    "period": "FY2025",
+    "qualifier": "reported",
+    "quote": "Revenue grew 32% in FY2025"
+   },
+   {
+    "metric": "revenue",
+    "value": 41.2,
+    "unit": "USD",
+    "scale": 1000000,
+    "period": "FY2025",
+    "qualifier": "reported",
+    "quote": "to $41.2 million"
+   }
+  ]
+ }
+}

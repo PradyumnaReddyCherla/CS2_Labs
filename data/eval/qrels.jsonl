@@ -1,0 +1,12 @@
+{"qid": "w-01", "query": "What was Wren's FY2025 revenue?", "category": "numeric_lookup", "scope": "deal_a", "relevant": {"DR-deal_a-001:p0004_b001": 2, "DR-deal_a-001:p0002_b001": 1}}
+{"qid": "w-02", "query": "How fast did Wren grow in FY2025?", "category": "numeric_lookup", "scope": "deal_a", "relevant": {"DR-deal_a-001:p0002_b001": 2, "DR-deal_a-001:p0004_b001": 1}}
+{"qid": "w-03", "query": "When does Wren's fiscal year end?", "category": "definitional", "scope": "deal_a", "relevant": {"DR-deal_a-001:p0001_b002": 2}}
+{"qid": "w-04", "query": "How concentrated is the customer base?", "category": "data_room_claim", "scope": "deal_a", "relevant": {"DR-deal_a-001:p0003_b001": 2, "DR-deal_a-002:t002": 1}}
+{"qid": "w-05", "query": "What is net revenue retention?", "category": "data_room_claim", "scope": "deal_a", "relevant": {"DR-deal_a-001:p0003_b002": 2, "DR-deal_a-002:t003": 2}}
+{"qid": "w-06", "query": "Which contracts have change-of-control provisions?", "category": "cross_document", "scope": "deal_a", "relevant": {"DR-deal_a-003:p0001_b003": 2, "DR-deal_a-002:t004": 2}}
+{"qid": "w-07", "query": "What are the adjusted EBITDA add-backs?", "category": "section_seeking", "scope": "deal_a", "relevant": {"DR-deal_a-001:p0004_b002": 2}}
+{"qid": "w-08", "query": "Who is Wren's CFO?", "category": "numeric_lookup", "scope": "deal_a", "relevant": {"DR-deal_a-001:p0005_b001": 2}}
+{"qid": "w-09", "query": "When are indications of interest due?", "category": "section_seeking", "scope": "deal_a", "relevant": {"DR-deal_a-001:p0006_b001": 2}}
+{"qid": "w-10", "query": "What revenue does the run-rate claim state?", "category": "data_room_claim", "scope": "deal_a", "relevant": {"DR-deal_a-001:p0002_b002": 2}}
+{"qid": "w-11", "query": "What are the annual fees in the Northline contract?", "category": "table_seeking", "scope": "deal_a", "relevant": {"DR-deal_a-003:p0001_b002": 2}}
+{"qid": "w-12", "query": "What drove growth this year?", "category": "cross_document", "scope": "deal_a", "relevant": {"DR-deal_a-002:t001": 2, "DR-deal_a-001:p0002_b001": 1}}

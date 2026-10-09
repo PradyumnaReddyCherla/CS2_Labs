@@ -1,0 +1,22 @@
+{
+ "name": "claims_p0002_b002",
+ "response_model": "MgmtClaims",
+ "model_role": "large",
+ "builder": "claims_messages",
+ "args": {
+  "block": "DR-deal_a-001:p0002_b002"
+ },
+ "response": {
+  "claims": [
+   {
+    "metric": "revenue",
+    "value": 48.0,
+    "unit": "USD",
+    "scale": 1000000,
+    "period": "FY2025",
+    "qualifier": "run-rate",
+    "quote": "On a run-rate basis, revenue reached $48.0 million"
+   }
+  ]
+ }
+}
