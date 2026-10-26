@@ -1,0 +1,6 @@
+{"metric": "revenue_growth", "period": "FY2025", "claim_id": "CL-DR-deal_a-001-p0002_b001-0", "fact_id": "F-3e153fb7cf", "status": "discrepancy", "gap": 0.301649, "severity": "high"}
+{"metric": "revenue", "period": "FY2025", "claim_id": "CL-DR-deal_a-001-p0002_b001-1", "fact_id": "F-b9733fc812", "status": "match", "gap": 0.0, "severity": null}
+{"metric": "revenue", "period": "FY2025", "claim_id": "CL-DR-deal_a-001-p0002_b002-0", "fact_id": "F-b9733fc812", "status": "definition_mismatch", "gap": null, "severity": null}
+{"metric": "revenue", "period": "FY2025", "claim_id": "CL-DR-deal_a-001-p0002_b003-0", "fact_id": "F-b9733fc812", "status": "period_mismatch", "gap": null, "severity": null}
+{"metric": "top1_customer_share", "period": "FY2025", "claim_id": "CL-DR-deal_a-001-p0003_b001-0", "fact_id": "F-6055a5ac1f", "status": "discrepancy", "gap": -0.448276, "severity": "high"}
+{"metric": "nrr", "period": "FY2025", "claim_id": "CL-DR-deal_a-001-p0003_b002-0", "fact_id": "F-69cbc9e5f9", "status": "discrepancy", "gap": 0.082569, "severity": "high"}

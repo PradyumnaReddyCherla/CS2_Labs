@@ -1,0 +1,7 @@
+{
+ "cs2_sample": {
+  "cost_per_cited_answer_usd": 0.00075,
+  "tokens_in_est": 672,
+  "human_minutes_typical": 12
+ }
+}
